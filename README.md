@@ -26,7 +26,7 @@
         </p>
         <p><code>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe Program.cs</code></p>
         <p>This creates the executable and now to run it we enter:</p>
-        <p><code>Program.cs</code></p>
+        <p><code>Program.exe</code></p>
         <h3 id="h3-how-to-change-the-input-data"><a name="How to change the input data" class="reference-link"></a><span
                 class="header-link octicon octicon-link"></span>How to change or see the input data</h3>
         <p>If you want to change or see the input data, you can go to the test folder where there is a .txt file where you can
